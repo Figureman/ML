@@ -1,0 +1,3 @@
+flowers：我自己下载的数据集
+CNN.ipynb:我的CNN数据处理和训练文件
+ViT.ipynb:ViT迁移模型的配置文件，太大了没放，需要找贾旺旺同学
